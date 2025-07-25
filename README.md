@@ -28,7 +28,7 @@ This task allowed me to apply core UI/UX principles such as hierarchy, alignment
 
 ## OUTPUT
 
-<img width="1200" height="4540" alt="Image" src="https://github.com/user-attachments/assets/92861673-c5a8-4cfe-a854-c59deb9bf988" />
+[redesigned webpage.pdf](https://github.com/user-attachments/files/21423236/redesigned.webpage.pdf)
 
 
 
