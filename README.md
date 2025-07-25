@@ -28,8 +28,6 @@ This task allowed me to apply core UI/UX principles such as hierarchy, alignment
 
 ## OUTPUT
 
-<img width="1201" height="4541" alt="Image" src="https://github.com/user-attachments/assets/16effca1-d4b4-4d6a-a94d-6d4688798d7c" />
-
 <img width="1200" height="4540" alt="Image" src="https://github.com/user-attachments/assets/5bf21f7d-e2e6-4fe5-8e15-d2c503064d5f" />
 
 
